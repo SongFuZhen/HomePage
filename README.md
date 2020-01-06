@@ -62,7 +62,7 @@ Step2: 安装Yarn
 ### 进入项目目录安装依赖
 
 ```shell
-  cd code && yarn install 
+  yarn install 
 ```
 
 该过程耗时比较长，耐心等待即可
