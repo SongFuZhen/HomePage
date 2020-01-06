@@ -1,0 +1,29 @@
+{
+  "name": "quick_website_with_antd_landing",
+  "version": "0.0.1",
+  "description": "quick website with antd landing frame and react umi",
+  "main": "src/pages/index.js",
+  "authors": {
+    "name": "SongFuZhen",
+    "email": "fuzhen.song@laurus-sys.com"
+  },
+  "repository": "git@github.com:SongFuZhen/quick_website_with_antd_landing.git",
+  "scripts": {
+    "dev": "umi dev",
+    "build": "umi build"
+  },
+  "dependencies": {
+    "umi": "^2.12.9",
+    "enquire-js": "^0.2.1",
+    "rc-queue-anim": "^1.8.3",
+    "rc-scroll-anim": "^2.7.4",
+    "rc-tween-one": "^2.6.8",
+    "react": ">=16.0.0"
+  },
+  "devDependencies": {
+    "umi": "^2.9.0",
+    "umi-plugin-block-dev": "^2.0.0",
+    "umi-plugin-react": "^1.14.12"
+  },
+  "license": ""
+}
